@@ -1,2 +1,2 @@
 console.clear();
-console.log("John's Todo List - UPDATE IN A NEW Branch");
+console.log("John's Todo List - UPDATE IN GitHub");
